@@ -43,7 +43,7 @@ Ensure you have the Flutter SDK installed on your machine. For installation guid
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/bon_assignment_app.git](https://github.com/your-username/bon_assignment_app.git)
+    git clone [https://github.com/ThunderSpear21/bon_assignment_app.git](https://github.com/ThunderSpear21/bon_assignment_app.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
